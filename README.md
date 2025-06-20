@@ -51,20 +51,10 @@ Let’s make this easy:
 
 ---
 
-## 🎵 Music? (Because Why Not?)
-
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31jpo5aewc5eywivjqfxaxjffvyy&cover_image=true&theme=default&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" />
-</p>
-
-
-
----
-
 ## 🤝 Let’s Talk!
 
-- 📧 [Say Hi on Email](mailto:your-email@example.com)  
-- 💼 [Find Me on LinkedIn](https://linkedin.com/in/your-linkedin)  
+- 📧 [Say Hi on Email](mailto:karedlateshi@gmail.com)  
+- 💼 [Find Me on LinkedIn](https://linkedin.com/in/rupa-karedla-4159b2289)  
 - 🌐 Portfolio? Coming soon (because I want it perfect ✨)  
 - 🤝 Always open to collabs, ideas, tech talks, or just random brainstorming.
 
