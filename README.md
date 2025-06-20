@@ -7,10 +7,7 @@
 
 ## 🧭 Who Even Am I?
 
-<p align="center">
-<em>Well, it's a long journey of mine... and honestly, I'm just getting started.</em>
-</p>
-
+Well, it's a long journey of mine... and honestly, I'm just getting started.
 You’ve landed in my little corner of GitHub — where backend meets blue teaming, and where building dreams is just another day.
 
 I’m a cybersecurity student — sure.  
