@@ -31,8 +31,9 @@ Let’s make this easy:
 
 ## 🛠️ My Toolbox (A Non-Boring One)
 
+| 💻 Area            |                 Tools                      |
+|--------------------|---------------------------------------------
 | 💻 Backend & Infra | Node.js · Express · MongoDB · Docker (WIP) |
-|--------------------|---------------------------------------------|
 | 🎨 Frontend        | HTML · CSS · React (getting better at it!) |
 | 🔐 Cybersecurity   | Wireshark · Splunk · ELK · OSINT · Suricata |
 | 🧰 Utilities       | Git · GitHub · Postman · Bash · Linux        |
