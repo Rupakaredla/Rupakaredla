@@ -1,6 +1,6 @@
 # ✨ *Heyyy, Welcomee Aboard!* 🚀
 
-> *Hi, I’m Rupa Yeshwitha — or just call me Rupaaa!*  
+> *Hi, I’m Rupa Yeshvitha — or just call me Rupaaa!*  
 > *Cybersecurity geek? Yep. Full Stack Dev? That too. Entrepreneurial spirit? Always. A lil' leadership magic? You bet.*
 
 ---
